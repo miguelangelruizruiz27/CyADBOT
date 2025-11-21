@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CyADBot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <h1>Bienvenido a CyADBot</h1>
+  <p>Haz clic en el botón para iniciar el chat.</p>
+
+  <!-- Botón flotante con mensaje automático -->
+  <div id="chat-container">
+    <div id="chat-message-bubble">Soy CyadBot, ¿en que te puedo ayudar?</div>
+    <div id="chat-button">
+      <img src="{{ url_for('static', filename='img/pantera.png') }}" alt="CyADBot">
+    </div>
+  </div>
+
+  <!-- Ventana del chat -->
+  <div id="chat-window" class="hidden">
+    <div id="chat-header">
+      CyADBot 🐾
+      <button id="chat-close-btn">&times;</button>
+    </div>
+    <div id="chat-messages"></div>
+    <div id="chat-input">
+      <input type="text" id="user-input" placeholder="Escribe tu pregunta...">
+      <button id="send-btn">Enviar</button>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>

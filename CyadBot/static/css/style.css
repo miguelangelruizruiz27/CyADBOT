@@ -1,0 +1,160 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+  padding: 0;
+}
+
+/* CONTENEDOR PRINCIPAL DEL BOTÓN Y BURBUJA */
+#chat-container {
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+  display: flex;
+  flex-direction: column; /* mensaje arriba del botón */
+  align-items: center;
+  z-index: 2000;
+}
+
+/* BURBUJA DE MENSAJE AUTOMÁTICA */
+#chat-message-bubble {
+  background-color: #006633;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 20px;
+  font-size: 14px;
+  margin-bottom: 10px;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: all 0.5s ease;
+}
+
+/* Animación: aparece automáticamente */
+#chat-container.show-message #chat-message-bubble {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* BOTÓN DEL UAMITO SIN FONDO NI CONTORNO */
+#chat-button {
+  width: 100px;
+  height: 100px;
+  background: transparent; /* sin fondo */
+  border: none; /* sin contorno */
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s ease;
+  z-index: 2001;
+}
+
+#chat-button img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  background: transparent; /* importante para que no quede fondo */
+  border-radius: 0; /* no recortar en círculo */
+  box-shadow: none; /* sin sombra circular */
+}
+
+/* efecto sutil al pasar el mouse */
+#chat-button:hover {
+  transform: scale(1.1);
+}
+
+/* VENTANA DE CHAT - Z-INDEX CORREGIDO */
+#chat-window {
+  position: fixed;
+  bottom: 140px; /* un poco arriba del botón */
+  right: 30px;
+  width: 350px;
+  height: 450px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 2002; /* MÁS ALTO que el botón */
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* Cambios en la ventana de chat */
+#chat-header {
+  background-color: #cc0000; /* rojo */
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  position: relative;
+}
+
+/* Botón cerrar en el header */
+#chat-close-btn {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  color: white;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#chat-messages {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+  font-size: 14px;
+}
+
+#chat-input {
+  display: flex;
+  border-top: 1px solid #ddd;
+  padding: 5px;
+}
+
+#user-input {
+  flex: 1;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  outline: none;
+  margin-right: 5px;
+}
+
+#send-btn {
+  background-color: #006633;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  min-width: 80px; /* Tamaño mínimo para que sea fácil hacer clic */
+  transition: background-color 0.3s ease;
+}
+
+#send-btn:hover {
+  background-color: #004d26;
+}
+
+/* Overlay styles */
+.chat-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 2001; /* Entre el botón y el chat */
+  display: none;
+}

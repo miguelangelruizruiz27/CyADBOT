@@ -1,0 +1,927 @@
+                                                                                                                                          249
+
+
+                                                 REGLAMENTO DEL ALUMNADO
+                                                          EXPOSICIÓN DE MOTIVOS
+1    NOMBRE DEL REGLAMENTO Y CRITERIOS UTILIZADOS EN SU APROBACIÓN
+     El presente ordenamiento ha sido denominado “Reglamento de Alumnos” en virtud de que contiene fundamentalmente disposiciones
+     normativas que configuran el marco jurídico universitario en el cual se desenvuelven quienes se encuentran inscritos a los estudios de
+     licenciatura, maestría y doctorado, y cursos de actualización y especialización, que imparte la Universidad de acuerdo con el artículo 2
+     de su Ley Orgánica.
+     Para la elaboración de este Reglamento fueron utilizados diversos criterios que permitieron la sistematización del conjunto de normas
+     que lo integran y que determinaron, en última instancia, el contenido final del mismo. Tales criterios fueron los siguientes:
+     1.1 Ámbitos de validez
+           Con la instrumentación de este criterio, compuesto por los ámbitos material, personal, espacial y temporal, se logró delimitar en
+           forma precisa el universo de discurso del Reglamento. Así, se destacaron los supuestos y las consecuencias susceptibles de
+           regulación, básicamente vinculadas con el objeto de la Universidad: docencia, investigación y preservación y difusión de la
+           cultura; se determinaron también los sujetos que pueden caer en esos supuestos y consecuencias, los espacios en los cuales se
+           aplican las disposiciones y el tiempo de vigencia del ordenamiento. De esta manera, al precisar que son los alumnos a quienes
+           se dirige en forma especial el Reglamento, quedaron fuera de sus ámbitos tanto los aspirantes a ingresar a la Universidad como
+           los egresados de la misma, en virtud de que, de acuerdo con el Título Tercero del Reglamento de Estudios Superiores a Nivel de
+           Licenciatura, no tienen el carácter de alumnos. En el ámbito de validez personal, quedaron también comprendidos los órganos
+           personales, los órganos colegiados y las instancias de apoyo a quienes compete la aplicación de este ordenamiento.
+     1.2 Jerárquico normativo
+           La aplicación de este criterio permitió ubicar las normas del Reglamento al mismo nivel jerárquico que las demás disposiciones
+           reglamentarias expedidas por el Colegio Académico. Asimismo, obligó al respeto de los documentos normativos con jerarquía
+           superior, como la Ley Orgánica de la Universidad y otras disposiciones pertenecientes al orden jurídico nacional.
+     1.3 Reconocimiento de las prácticas en la Universidad
+           A partir de este criterio se realizaron encuestas y entrevistas a los miembros de la comunidad universitaria, con el propósito de
+           obtener información sobre los usos que se han observado y se observan en la vida institucional respecto a la situación de los
+           alumnos en los ámbitos de docencia, investigación y preservación y difusión de la cultura. Asimismo, se consideraron casos
+           relativos a faltas cometidas por los alumnos, de los cuales se destacó la información relativa a los tipos de faltas, quiénes
+           conocen de las mismas, qué procedimientos se han utilizado y las medidas que se han aplicado.
+           La utilización de este criterio fue fundamental para la determinación de los contenidos normativos del presente documento.
+     1.4 Criterio orgánico-funcional
+           Para la distribución de las competencias en este Reglamento, se aplicó el sistema utilizado en el Reglamento Orgánico de la
+           Universidad Autónoma Metropolitana y se desarrollaron algunas competencias de los órganos personales, colegiados e
+           instancias de apoyo. De esta manera, se logró una distribución competencial acorde con el modelo de organización académica
+           de la Universidad.
+     1.5 No repetición de disposiciones de otros reglamentos
+           Con base en este criterio se tuvo cuidado de no repetir las normas establecidas en otros reglamentos, especialmente las
+           disposiciones del Reglamento de Estudios Superiores a Nivel de Licenciatura y del Reglamento de Estudios de Posgrado, lo cual
+           permitió eliminar el problema de la redundancia normativa.
+2    ACLARACIONES RESPECTO DE LA TERMINOLOGÍA Y ESTRUCTURA DEL REGLAMENTO DE ALUMNOS
+     2.1 De los derechos
+           La distribución de competencias prevista en la Ley Orgánica y en el Reglamento Orgánico de la Universidad Autónoma
+           Metropolitana sirvió de fundamento para determinar ante qué órgano o instancia deben acudir los alumnos para ejercer sus
+           derechos o para solicitar la restitución de los mismos en los casos de transgresión.
+           Así, con el propósito de evitar la dispersión de funciones en diversos órganos o instancias y la consecuente desorientación de los
+           alumnos, se asignaron al Director de División, al Coordinador de Estudios y a los responsables de los diferentes servicios, las
+           competencias para conocer de los problemas relacionados con la instrumentación de los derechos de los alumnos. Con esta
+           asignación se logra fluidez y eficacia en la atención de los problemas que pueden ser planteados, ya que un órgano personal,
+           una instancia de apoyo y los responsables de los servicios en la Unidad, son los directamente encargados de atender solicitudes
+           de los alumnos en relación con sus derechos.
+           Al señalar que los alumnos tienen derecho a conocer el resultado de las evaluaciones, se precisó la posibilidad de que pudieran
+           recuperar el material presentado en las evaluaciones de las unidades de enseñanza-aprendizaje, una vez transcurridos los
+           plazos para presentar las inconformidades y siempre y cuando las particularidades de dicho material de la propia unidad de
+           enseñanza-aprendizaje así lo permitieran.
+           Por lo que se refiere al derecho establecido en la fracción IX del artículo 4, se puntualizó que dicho reconocimiento vincula a los
+           autores, coordinadores o responsables de trabajos académicos en los que hayan participado los alumnos, a hacer alusión
+           expresa a dicha participación. Por otra parte, se enfatizó que el uso de las instalaciones y demás bienes de la Universidad, se
+           sujetará a los instructivos que emitan los Consejos Académicos en ejercicio de la competencia que les atribuye el artículo 30
+           fracción II del Reglamento Orgánico.
+           Al precisar que la información y la orientación a los alumnos debe ser oportuna y programada, se pretendió recalcar la necesidad
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+250
+
+
+          de que la Universidad establezca un sistema integral de información y orientación a los alumnos, sobre las actividades
+          académicas que desarrolla y sobre la estructura y funcionamiento de la misma. Por otra parte, se destacó que el derecho de los
+          alumnos a recibir orientación vocacional se podía recibir no sólo durante los primeros trimestres de la carrera escogida, sino
+          durante toda la permanencia que como alumno se tenga en la Universidad. Asimismo, se acotó que el término “servicios” implica,
+          aparte del propio servicio de docencia, los servicios relacionados directamente con las actividades académicas, como es el caso
+          de la biblioteca, librería, fotocopiado, etc., así como de menor vinculación académica como la cafetería, servicios médicos, etc.
+          Finalmente, se precisó que algunos aspectos relativos a las evaluaciones no se establecieron como derechos en virtud de estar
+          ya contemplados en otros ordenamientos vigentes.
+      2.2 De las cargas
+          El establecimiento de este Capítulo obedeció a la necesidad de definir las tareas que idealmente corresponde realizar a los
+          alumnos en relación con la función de la Universidad de impartir educación superior. La denominación del Capítulo responde a la
+          definición técnica de esas tareas; es decir, las actividades necesarias para obtener el diploma, título o grado académico en la
+          Universidad, y cuya realización se deja a la voluntad del alumno. Estas cargas se distinguen de las obligaciones o deberes en
+          tanto que su no ejecución no afecta jurídicamente a terceros sino sólo al propio alumno que las deja de realizar. Tal es el caso de
+          quien decide no presentar las evaluaciones programadas de las unidades de enseñanza-aprendizaje en las que se encuentra
+          inscrito. En esta hipótesis, el registro escolar resultante de la no presentación de las evaluaciones y sus consecuencias, sólo
+          afecta al propio alumno y no puede ser considerado como aplicación de una sanción.
+      2.3 De las faltas
+          En el Capítulo IV del Reglamento se hace una distinción de las faltas en atención a los posibles sujetos pasivos de las mismas;
+          así, se precisan faltas en contra de la Universidad y faltas en contra de los miembros de la comunidad universitaria. Entre éstos
+          se encuentran los propios alumnos, los órganos personales, los órganos colegiados, las instancias de apoyo, el personal
+          académico y el personal administrativo que labora en la Universidad.
+          Con fundamento en el valor socialmente atribuido a algunos bienes, se determinó la existencia de faltas graves y de faltas; este
+          mismo razonamiento sirvió para evitar la mención de “faltas leves”, pues se consideró que estas últimas, en caso de presentarse,
+          deberían resolverse entre los miembros de la comunidad universitaria sin necesidad de iniciar el proceso aquí establecido. Por tal
+          razón y de acuerdo con el principio de legalidad, sólo por las faltas reglamentarias señaladas puede dar inicio el proceso
+          correspondiente.
+          Una preocupación constante en el señalamiento de las faltas fue el respeto por los denominados “derechos políticos” otorgados
+          como garantías individuales en la Constitución Política de los Estados Unidos Mexicanos; tales derechos son los que se
+          contienen básicamente en los artículos 6, 7, 8 y 9 constitucionales, referidos a la libertad de manifestar las ideas, la libertad de
+          imprenta, el derecho de petición y el de reunión y asociación, respectivamente.
+          En relación con el artículo 8 fracción VII del presente Reglamento, se consideró conveniente precisar que no se entenderá como
+          violencia física el ejercicio de cualesquiera de los derechos de los alumnos. Asimismo, se decidió respetar en sus términos el
+          enunciado del artículo 34 de la Ley Orgánica relativo a que “las asociaciones de alumnos serán independientes de los órganos de
+          la Universidad y se organizarán democráticamente en la forma que los mismos estudiantes determinen”.
+          Como parte integrante del derecho de petición vinculado estrechamente con la estructura procedimental para conocer y resolver
+          sobre las faltas de los trabajadores universitarios, se puntualizó que el dar a conocer la existencia de esas posibles faltas
+          constituye una prerrogativa de todos los miembros de la comunidad universitaria y que, en consecuencia, los alumnos pueden
+          participar en dicho procedimiento.
+          En relación con la falta sobre portación de armas, se precisó que éstas son las aludidas en los artículos 160 y 161 del Código
+          Penal para el Distrito Federal y que quedaban excluidos de esta consideración los casos en que dichas armas fueran
+          instrumentos para desarrollar actividades académicas. De la misma manera, la falta relativa a las amenazas se vinculó a lo
+          establecido al respecto en el Código Penal anteriormente citado y se especificó que la gravedad de esta falta es similar a la
+          agresión física para los efectos del Reglamento.
+      2.4 De las medidas administrativas
+          La medida administrativa se identificó como la consecuencia atribuida a una falta. En la práctica, corresponde a un órgano
+          colegiado su aplicación mediante el uso de criterios para adecuar la norma al caso concreto.
+          El orden en el que se presentan las medidas administrativas no es un orden obligado de aplicación; los rangos o márgenes
+          establecidos en relación con el tipo de falta, permiten al órgano aplicador elegir la medida a aplicar en el caso concreto. Así, para
+          la comisión de faltas se establece desde amonestación hasta suspensión por dos trimestres, y en el caso de faltas graves, desde
+          suspensión por dos trimestres hasta expulsión de la Universidad. En este sistema de medidas administrativas se consideró
+          adecuado el que la medida más grave que se puede aplicar por la comisión de una falta, constituya a su vez la menos grave que
+          se puede aplicar por la comisión de una falta grave.
+          Se consideró conveniente aclarar que la medida administrativa relativa a la suspensión por tres trimestres no implica la pérdida
+          de la calidad de alumno a la que se refiere la fracción II del artículo 10 del Reglamento de Estudios Superiores a Nivel de
+          Licenciatura.
+          El procedimiento creado para la aplicación de estas medidas otorga a los alumnos todas las posibilidades procesales de defensa,
+          referidas a la presentación de pruebas y alegatos y en las que se incluye la asesoría por parte de especialistas. Se decidió que
+          fuera un órgano colegiado el encargado de determinar las medidas administrativas a los casos concretos; por esta razón, se dio
+          competencia al Consejo Divisional para conocer y resolver en definitiva sobre los casos de faltas cometidas por los alumnos de la
+          propia División. Con esta competencia atribuida al Consejo Divisional, misma que fue derivada de la facultad genérica que la Ley
+          Orgánica atribuye a estos cuerpos colegiados para aprobar el desarrollo y funcionamiento de la División, se garantizó la
+          imparcialidad en la emisión de las resoluciones dada la integración plural de dicho órgano colegiado y de la propia Comisión del
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+                                                                                                                                          251
+
+
+         Consejo Divisional que se crea reglamentariamente para instruir el proceso correspondiente. Esta Comisión se ajusta a los
+         lineamientos reglamentarios de las demás comisiones y su característica particular es que tiene una duración anual que coincide
+         con la duración de la representación del Consejo Divisional respectivo. La Comisión es la encargada de proponer la medida
+         administrativa al pleno del Consejo Divisional, pero dicha propuesta de ninguna manera vincula al pleno. La Comisión deberá
+         rendir dictamen de todos los casos que conozca ante el Consejo Divisional aunque la propuesta sea la de no aplicar una medida
+         administrativa, pues con esta actitud se busca seguridad jurídica a los participantes en tanto que la decisión final siempre la emite
+         el órgano competente. Al señalar en el artículo 18 que la Comisión notificará los antecedentes del caso a los interesados, se
+         pretendió destacar que este término abarca no solamente al alumno a quien se le atribuye la comisión de la falta, sino a los
+         demás sujetos involucrados, como el afectado, el representante de la Universidad, etc.
+         Se consideró importante resaltar que si en el momento de instalación del Consejo Divisional se tienen casos pendientes de
+         dictaminar por parte de la Comisión que concluye sus funciones, los plazos señalados en este Reglamento no pueden verse
+         afectados por el cambio. En su caso, se procurará que los miembros de la Comisión saliente asesoren a los nuevos integrantes
+         para que cumplan los plazos o términos reglamentarios.
+         Se decidió que en la aplicación de medidas administrativas se deben observar criterios precisos que permitan emitir la mejor
+         resolución posible. El conjunto de criterios que se estableció y cuya presentación no obedece a un orden jerárquico, constituye un
+         universo cerrado que pretende otorgar seguridad jurídica a los alumnos, porque la resolución respectiva deberá basarse
+         únicamente en la aplicación de ese conjunto exhaustivo de criterios que constituyen los denominados “elementos de juicio”.
+         El criterio relativo a “la conducta observada por el alumno” se relacionó directamente con el cumplimiento de las disposiciones
+         contenidas en el Reglamento, de tal forma que sólo es posible agravar la aplicación de una medida administrativa a un alumno, si
+         éste cometió anteriormente una de las faltas establecidas en el Reglamento. Por otra parte, se precisó que el criterio relativo a “el
+         desempeño académico del alumno” sólo puede ser considerado en beneficio de los alumnos; es decir, su aplicación sólo procede
+         como “atenuante” de las imputaciones hechas al alumno. Esta atenuación de la falta se dará para aquéllos que tengan buen
+         desempeño académico, mismo que se identificó en relación con buenas calificaciones, participación en clase y desarrollo de
+         investigaciones. Uno de los objetivos básicos perseguidos en la elaboración de este procedimiento fue el de lograr sencillez y
+         claridad para que su aplicación no resulte difícil a las comisiones y a los propios Consejos Divisionales de la Universidad. Los
+         plazos que se establecen en el presente ordenamiento se plantearon en días hábiles; por tal virtud, la prescripción de las
+         acciones no podrá basarse en el transcurso de días inhábiles. Esto significa que si a la llegada de vacaciones, días de descanso
+         obligatorio o cualquier otro día no laborable se encuentra pendiente una de las actividades procesales aquí señaladas, ésta sólo
+         se podrá realizar al reiniciar las labores de la Universidad, siempre que el plazo en días hábiles no haya concluido.
+         Al establecer en el artículo 17 que “cuando algún miembro de la comunidad universitaria debidamente identificado dé a conocer
+         la existencia de una posible falta, presentará escrito ante el Secretario del Consejo Divisional correspondiente...”, se pretendió
+         que todos los que integran dicha comunidad tuvieran la posibilidad de solicitar el cumplimiento del Reglamento de Alumnos. Este
+         sistema de participación de alguna manera ha sido adoptado en la Universidad en relación con otros ordenamientos generales
+         expedidos por el Colegio Académico. Una vez más se tuvo la confianza de que estas normas dirigidas a universitarios, serán
+         empleadas para los propósitos establecidos y no para generar “denuncias anónimas” o “delaciones” en la comunidad, pues
+         aparte de que la experiencia demuestra hasta ahora lo contrario, quienes quieran dar a conocer la comisión de alguna falta
+         deberán hacerlo por escrito en el cual se identifiquen debidamente como miembros de dicha comunidad.
+     2.5 Del Recurso de Reconsideración
+         El principio básico del sistema de decisiones establecido en el Reglamento es que todas las resoluciones de los Consejos
+         Divisionales son definitivas, es decir, que no admiten recurso alguno. Sin embargo, en virtud de que la medida administrativa de
+         expulsión de la Universidad implica la imposibilidad de volver a inscribirse a ésta en cualquiera de sus estudios, se decidió
+         establecer una excepción a dicho principio de definitividad mediante el establecimiento del Recurso de Reconsideración; este
+         recurso permite que el mismo órgano que determinó la medida conozca y resuelva sobre los argumentos planteados por el
+         alumno en contra de la resolución emitida. En el procedimiento se da la oportunidad de presentar nuevos elementos probatorios
+         para que se consideren por el Consejo Divisional; sin embargo, la existencia de dichos elementos no se constituye en requisito
+         para poder ejercer el derecho a que se reconsidere la decisión. El sistema establecido es consistente con el modelo de la
+         Universidad en cuanto a la autonomía técnica de los órganos en el ejercicio de sus competencias. Se evitó la posibilidad de una
+         segunda instancia porque en el procedimiento establecido para conocer las faltas se respeta ampliamente la garantía
+         constitucional de audiencia y porque se considera que el Consejo Divisional es la única instancia idónea para resolver estos
+         casos. Dentro de estos razonamientos, se rechazaron las posibilidades de crear Comisiones de Honor y Justicia y de que las
+         comisiones de los consejos resolvieran en forma definitiva. Esta determinación estuvo reforzada por el hecho de que no es
+         conveniente crear otro tipo de órganos en la Universidad.
+         El Recurso de Reconsideración se instrumenta exclusivamente a solicitud del alumno interesado y sus efectos pueden ser la
+         ratificación, modificación o cancelación de la resolución emitida.
+     2.6 De las distinciones
+         El Capítulo VII que contiene las distinciones a los alumnos fue incluido en el presente ordenamiento en virtud de que se considera
+         necesario reconocer y estimular a los alumnos de licenciatura, maestría, doctorado y especialización que sobresalgan en los
+         ámbitos de la docencia o de la investigación.
+         Al establecer las distinciones no se consideró el carácter material o, pecuniario de las mismas, sino la representación que éstas
+         pueden tener del esfuerzo de los alumnos.
+         Por las características propias que implica el organizar y desarrollar actividades de investigación, surgió la necesidad de dar un
+         tratamiento diferente al otorgamiento del Diploma a la Investigación. Así, no se sujetó al mismo esquema de las demás
+         distinciones, sino a los requisitos establecidos en la convocatoria que para tal efecto publique el Rector de Unidad.
+         Con excepción de la Medalla al Mérito Universitario que en todos los casos se otorga en forma individual, las distinciones
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+252
+
+
+           establecidas en este Capítulo se consideraron susceptibles de ser otorgadas en forma individual o colectiva, dependiendo de los
+           alumnos que hayan participado en el trabajo que motive la distinción.
+           Finalmente se advirtió que, de acuerdo con el contenido del artículo 40 del Reglamento, existe la posibilidad de que la Mención
+           Académica y el Diploma a la Investigación, previo el juicio de la Comisión Académica o del Jurado Calificador correspondiente, no
+           sean otorgados en virtud de no existir los méritos académicos suficientes.
+REFORMA RELACIONADA CON LA INICIATIVA DEL CONSEJO ACADÉMICO DE LA UNIDAD LERMA PARA REFORMAR LOS
+ARTICULOS 10 Y 11 DEL REGLAMENTO DE ALUMNOS
+(Aprobada por el Colegio Académico en la sesión No. 488, celebrada el 16 de diciembre de 2020)
+Esta reforma se sustenta en las políticas que ha asumido la Universidad para procurar que en la formación del alumnado se cultiven valores
+como la justicia, la equidad, la tolerancia, el respeto a los derechos humanos y a la diversidad, entre otros; así como para promover las
+acciones que estimulen la integración y el sentido de pertenencia a la comunidad universitaria para mantener el mejor ambiente institucional.
+Se espera que esta decisión y compromiso institucional de promover, respetar y proteger los derechos de la comunidad universitaria,
+particularmente los derechos académicos y humanos del alumnado, contribuyan a generar un ambiente universitario de igualdad, inclusión,
+seguridad, equidad, sin discriminación y libre de cualquier manifestación de violencia. Para garantizarlo, se establecen también las
+condiciones para prevenir, atender, sancionar y erradicar las expresiones que menoscaben estos derechos, como lo es la violencia hacia las
+mujeres.
+Estas condiciones permitirán que en la interpretación y aplicación de este Reglamento, se asuma como principio fundamental el respeto y
+protección de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados
+internacionales de los que el Estado mexicano sea parte y en la constitución de la entidad donde se encuentre la unidad universitaria;
+además de considerar la perspectiva de género, como condición indispensable que permitirá analizar y entender la violencia de manera
+estructural y en función de la jerarquía de hecho o de derecho de las relaciones humanas, académicas o laborales.
+Lo anterior es necesario para asegurar la construcción de un espacio universitario libre de violencia por razones de género, así como un trato
+digno y respetuoso a las y los afectados de la comunidad universitaria, observando los principios de buena fe de las y los afectados, y el de
+presunción de inocencia.
+La violencia por razones de género es toda forma de agresión física o psicológica que se ejerce a partir de las ideas y conceptos acerca de lo
+que significa ser mujer o ser hombre, se realiza mayoritariamente contra las mujeres, y también afecta a los hombres que no se comportan
+de acuerdo con la masculinidad dominante y contra las personas de la diversidad sexual y no necesariamente ocurre en la Universidad. Por
+lo tanto, afecta los principios de igualdad, inclusión y diversidad necesarios en el ambiente universitario.
+Un elemento central en esta reforma es el relacionado con la atención que debe darse a las personas que sean violentadas en su integridad,
+la cual debe ser oportuna y adecuada, en el más amplio sentido, desde el manejo y uso de los datos personales de las y los involucrados
+que deben mantenerse bajo estricta privacidad, sobre todo cuando se trate de casos de hostigamiento, acoso y otras manifestaciones de
+violencia por razones de género, hasta la emisión de las medidas necesarias para salvaguardar su integridad.
+En este sentido, se modificó el procedimiento que deben observar las comisiones de faltas y se adicionan como faltas graves del alumnado
+en contra de integrantes de la comunidad universitaria, amenazar, incitar o ejercer, por cualquier medio, violencia física, sexual o psicológica,
+así como promover discursos de odio o actos de discriminación que atenten contra la dignidad humana. En los procedimientos por las faltas
+asociadas con violencia por razones de género se deberá garantizar, además de la confidencialidad, la no re-victimización, así como un
+enfoque diferencial y especializado, relativo a la adopción de medidas que respondan a la atención de las particularidades y grado de
+vulnerabilidad de las y los afectados.
+Por ello, el manejo de la información por parte de la persona titular de la secretaría académica respectiva, deberá limitarse a las y los
+involucrados en los procedimientos y que realmente necesiten conocerla; asimismo, las notificaciones por escrito, las actas de las sesiones,
+así como el dictamen de la comisión de faltas y sus resoluciones, deberán elaborarse en versión pública; es decir, se eliminarán los
+elementos que constituyan información confidencial o reservada.
+Con el propósito de preservar los valores universitarios se determinó que con independencia del espacio en que se cometan las faltas o el
+medio que se utilice para ello, la persona titular de la secretaría del consejo divisional y la comisión correspondiente, deberán iniciar el
+procedimiento cuando conozcan de las faltas previstas en los artículos 8, fracciones II a la X y XIII, 9, fracciones IV, VI y VII, 10 y 11 aun
+cuando éstas se hayan realizado fuera de los espacios de la Universidad, en la medida en que no se distingue el lugar en el que pueden
+presentarse este tipo de conductas.
+Como parte de los principios de igualdad e inclusión el alumnado que presente alguna discapacidad tendrá derecho a que la Universidad, en
+el ámbito de sus competencias y posibilidades, realice ajustes razonables que le permita cursar y concluir sus estudios.
+Los ajustes razonables son las medidas específicas adoptadas con el fin de modificar y adecuar el entorno, los bienes, y los servicios a las
+necesidades particulares de las personas con discapacidad.
+Se entenderá por discursos de odio, las expresiones que incitan a la difamación, injuria, hostilidad, discriminación y violencia; basadas en
+prejuicios y estereotipos sobre personas o grupos y que atentan contra la dignidad humana.
+La decisión de establecer como una falta en contra de la Institución, la realización de actos de comercio, se sustenta en el principio de que
+los bienes y espacios de la Universidad deben ser utilizados exclusivamente para el cumplimiento de su objeto social.
+En relación con el artículo 10 fracción II, se considerará como faltas graves las prácticas y actitudes que reproducen estructuras de
+desigualdad y jerarquización, y promueven un trato discriminatorio hacia las personas, tales como, sexismo, en razón de su sexo asignado o
+asumido; racismo, basado en características corporales, aspectos culturales y orígenes comunitarios, y capacitismo que privilegia el cuerpo
+íntegramente productivo y promueve la valoración negativa de la discapacidad y otras diferencias que no cumplen con los estándares
+considerados normales.
+
+
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+                                                                                                                                               253
+
+
+Para garantizar el principio de legalidad en la aplicación de las medidas administrativas, se establece la posibilidad para que el alumnado
+pueda solicitar que la resolución emitida por los consejos divisionales en la aplicación de cualquier medida administrativa se revise, a través
+del recurso de reconsideración.
+En el Capítulo de las Distinciones se precisaron las condiciones para su otorgamiento, entre otras, tener el mejor promedio, además, se
+estableció la especificación de que a la alumna o al alumno a quien se le haya aplicado una medida administrativa no será merecedor de
+distinciones, y lo relativo al tiempo en que deben concluir sus estudios estando inscritas o inscritos en modalidad de tiempo completo y
+medio tiempo para acceder a la Medalla al Mérito Universitario, en los casos del mejor promedio general del grupo que termina, el Diploma al
+Mérito Universitario al segundo y tercer lugar, así como la Medalla al Mérito Universitario Intercultural, para reconocer al alumnado que
+provenga de pueblos originarios.
+Esta reforma consideró, de manera transversal, el lenguaje incluyente; por lo cual se cambió el nombre al de “Reglamento del Alumnado”,
+con los consecuentes cambios al articulado. El término alumnado abarca al colectivo de alumnas y alumnos sin distinción negativa de su
+sexo, orientación sexual, expresión de género y otras alusivas a su condición.
+REFORMA RELACIONADA CON LA PREVENCIÓN, ATENCIÓN Y SANCIÓN DE CONDUCTAS RELACIONADAS CON VIOLENCIA POR
+RAZONES DE GÉNERO
+(Aprobada por el Colegio Académico en la sesión No. 560, celebrada el 20 de marzo de 2025)
+Esta reforma obedece al imperativo institucional de garantizar que en la formación del alumnado se fomente el respeto a los derechos
+humanos y a la diversidad cultural, y que en los procedimientos que se instauren como consecuencia de las faltas cometidas por el
+alumnado, relacionadas con violencia física, sexual, psicológica, acoso, discursos de odio, discriminación o cualquier otra que atente contra
+la dignidad o la intimidad sexual de las personas, se considere la perspectiva de género y el marco de derechos humanos, así como los
+principios de no revictimización, máxima protección, dignidad, integridad, buena fe, objetividad, legalidad, no repetición, equidad, eficiencia,
+igualdad, seguridad jurídica, simplicidad e imparcialidad.
+Ante la problemática que enfrentaron los consejos divisionales y sus comisiones de faltas para conocer y resolver sobre las conductas
+violentas, discursos de odio, actos de discriminación u otros relacionados con violencia por razones de género, se determinó que los
+procedimientos instaurados por estas razones sean resueltos por comisiones especializadas, de ahí la importancia de que sean integradas
+por personas con conocimientos o experiencia en la atención en esos temas. Por ello y para procurar que las resoluciones con las que se
+sancionen estas conductas sean homogéneas, estandarizadas, congruentes e invariablemente fundadas y motivadas en el bloque de
+constitucionalidad y convencionalidad de derechos humanos, se crearon las comisiones especializadas de unidad y, para las demás faltas
+previstas en el Reglamento, se mantuvo la competencia de las comisiones de faltas de los consejos divisionales.
+La comisión especializada de unidad se conformará por tres integrantes del personal académico que designará el consejo académico, una
+persona por cada división a propuesta de sus titulares; una designada por la rectoría de unidad, y una representante de la Abogacía General,
+cuya participación se consideró esencial, dado que es su responsabilidad asesorar a las personas titulares o integrantes de los órganos e
+instancias de la Universidad en materia legal y de consulta sobre la interpretación de la legislación nacional y universitaria, así como
+garantizar el cumplimiento del orden jurídico de la Universidad.
+Adicionalmente, participarán como observadoras del procedimiento con derecho a voz, pero no a voto, una persona de la Defensoría de los
+Derechos Universitarios, y tres del alumnado, uno por cada división, designadas por el consejo académico en la sesión en que se instale este
+órgano colegiado. Durante el desahogo de los casos, solo se convocará a la persona del alumnado que pertenezca a la división en la que
+esté inscrita la señalada como responsable de la falta.
+Aun cuando la designación del personal académico y del alumnado, como integrante y participante, respectivamente, de las comisiones
+especializadas de unidad, tiene que realizarse en la sesión en que se instale cada consejo académico; esto es, cada dos años, las mismas
+personas podrán ser ratificadas para periodos subsecuentes, si así lo considera cada uno de estos órganos colegiados, ya que debe
+garantizarse que las comisiones se mantengan conformadas con personas habilitadas por sus conocimientos y experiencia en la atención y
+resolución de las faltas indicadas en el artículo 10, fracción II.
+Como es responsabilidad de la Universidad cultivar en el alumnado principios y valores como son la libertad, igualdad, integridad personal,
+respeto, tolerancia, dignidad, diversidad, entre otros inherentes a su objeto social, se amplía el ámbito personal de validez del Reglamento,
+para considerar a las personas egresadas como sujetas a su aplicación para el procedimiento de las faltas, por lo que para efectos de este
+Reglamento se entenderá como personas egresadas a quienes concluyeron el total de los créditos y no hayan obtenido el título profesional,
+diploma de especialización o grado académico, por lo cual aún mantienen un vínculo estrecho con la Institución e interactúan con la
+comunidad universitaria.
+Para contribuir a que en los espacios universitarios prevalezca una cultura de paz y se mantengan libres de manifestaciones violentas o
+discriminatorias, se incluyeron nuevas responsabilidades para que el alumnado actúe con respeto, tolerancia, responsabilidad, solidaridad,
+apego a la verdad, honestidad y honradez. Es así que como parte de las acciones inherentes, cualquier integrante de la comunidad
+universitaria que tenga conocimiento de hechos que puedan ser constitutivos de delitos, deberá informarlo de inmediato a la secretaría de
+unidad para que, con la asesoría de la Abogacía General, se tomen las medidas para presentar la denuncia correspondiente.
+Para fortalecer la mejora en las prácticas de la vida universitaria y como medida de no repetición de conductas opuestas a los valores de la
+Institución, se estableció la posibilidad de solicitar a las personas señaladas como responsables de alguna falta, la realización o acreditación
+de cursos o actividades para comprender la consecuencia de ésta; por ello, se incorporó la competencia de las secretarías de unidad para
+dar seguimiento a la acreditación de éstas, a efecto de que continúen con los trámites de reinscripción o escolares.
+Para simplificar la identificación de las faltas, se ajustó la redacción y se reordenaron en dos grupos: en contra de la Institución y en contra de
+integrantes de la comunidad universitaria, por lo que su gradación se determinará en función de la aplicación de los criterios indicados en el
+artículo 25.
+A fin de garantizar los principios de igualdad procesal y el conjunto de formalidades que deben observarse en estos procedimientos, se
+estableció que las personas en situación de víctimas también podrán interponer el recurso de reconsideración, con lo cual tendrán la
+posibilidad normativa para que la resolución se revise en caso de que no estén de acuerdo con ella.
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+254
+
+
+Se ampliaron los plazos de los procedimientos de faltas, y se especificó lo que deben contener las resoluciones que emitan los consejos
+divisionales o las comisiones especializadas de unidad, a fin de garantizar que estén debidamente fundadas y motivadas.
+Con esta reforma se busca también mejorar los procedimientos para conocer y resolver las faltas del alumnado, a fin de que las resoluciones
+que en estos procedimientos se emitan cumplan las exigencias de fundamentación y motivación, ya que de esta forma la Universidad
+garantizará la salvaguarda de los derechos humanos de las personas, en particular, de aquellas en situación de víctimas y, a la vez, refrenda
+el compromiso de eliminar la violencia entre integrantes de su comunidad universitaria.
+Se incluyó el capítulo denominado como “Procedimiento para resolver las faltas”, y se reordenó la estructura del Reglamento, con el
+consecuente ajuste secuencial del capitulado y del articulado.
+
+
+                           (Aprobado por el Colegio Académico en la Sesión No. 58, celebrada los días 26 de febrero y 8 de marzo de 1985)
+CAPÍTULO I
+Disposiciones generales
+58, 78
+ARTÍCULO 1
+Este Reglamento tiene por objeto:
+I      Reconocer, proteger y garantizar los derechos del alumnado;
+II     Determinar las responsabilidades del alumnado;
+III    Fomentar las condiciones para la formación integral del alumnado, en las que deberá considerarse el respeto a los derechos y
+       libertades de la comunidad universitaria, y la cultura de paz en los espacios institucionales. Para ello se regulan:
+       a) Las faltas en que puede incurrir el alumnado y las personas egresadas; así como las medidas administrativas que deben
+              aplicarse y el recurso de reconsideración que podrá interponerse;
+       b) La competencia y el procedimiento para conocer y resolver lo relativo a las faltas del alumnado y de las personas egresadas;
+              así como al recurso de reconsideración, y
+       c) Establecer las distinciones del alumnado.
+Lo anterior será aplicable, en lo procedente, a las personas participantes.
+58
+ARTÍCULO 2
+Forman parte del alumnado las personas que se encuentren inscritas, conforme a las disposiciones aplicables, a los estudios superiores que
+imparta la Universidad.
+Tendrá el carácter de participante el alumnado de otras instituciones que, en el marco de un programa de movilidad y conforme al
+Reglamento de Estudios Superiores, cursan un determinado número de créditos.
+58, 78
+ARTÍCULO 3
+Los planes y programas de estudio; los programas y proyectos de investigación, así como los de preservación y difusión de la cultura, son la
+base para el desarrollo de las actividades académicas del alumnado.
+58
+CAPÍTULO II
+Derechos
+58, 78
+ARTÍCULO 4
+Los derechos del alumnado son:
+I      Cursar los estudios de conformidad con el plan y programas vigentes a la fecha de su inscripción en cada unidad de enseñanza-
+       aprendizaje.
+       La Universidad cuidará que los estudios se cursen en un ambiente libre de violencia, discriminación, discursos de odio o misoginia, y
+       en el que se promueva el respeto a los derechos humanos, en particular, los de:
+       a) Igualdad;
+       b) Seguridad;
+       c) Libertad;
+       d) Equidad;
+       e) Inclusión;
+       f)    Diversidad, y
+       g) Dignidad;
+II     Recibir el número de sesiones previstas para cada unidad de enseñanza-aprendizaje, en los lugares propicios, modalidad y horarios
+       previamente determinados;
+III    Participar activamente e integrar grupos de trabajo, en el desarrollo de las unidades de enseñanza-aprendizaje;
+IV     Opinar sobre el desarrollo y los resultados de las unidades de enseñanza-aprendizaje;
+V      Ser evaluado de conformidad con el contenido del plan y los programas de estudio que curse, así como conocer oportunamente el
+       resultado de las evaluaciones;
+VI     Participar en el desarrollo de proyectos de investigación y en actividades de preservación y difusión de la cultura, de acuerdo con sus
+       conocimientos o aptitudes y conforme a la naturaleza de los programas y proyectos;
+VII    Obtener reconocimiento por su participación o autoría en el desarrollo de actividades o en los resultados de los trabajos académicos
+       en los que colabore;
+
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+                                                                                                                                          255
+
+
+VIII     Conocer, al inicio del trimestre, la planeación y el contenido de los programas de estudio, las modalidades de conducción y de
+         evaluación, así como las actividades académicas que se desarrollarán;
+IX       Recibir orientación e información oportuna y programada de los trámites escolares, de los servicios que se prestan, así como de la
+         organización y funcionamiento de la Universidad;
+X        Obtener asesoría sobre el contenido de las unidades de enseñanza-aprendizaje, de los programas y proyectos de investigación, y de
+         preservación y difusión de la cultura;
+XI       Recibir orientación vocacional;
+XII      Usar las instalaciones y demás bienes de la Universidad que sean necesarios para su formación académica;
+XIII     Recibir oportunamente los servicios que presta la Universidad;
+XIV      Participar en actividades deportivas conforme a los programas y proyectos institucionales, con igualdad de oportunidades y sin
+         distinción de género;
+XV       Mantener la confidencialidad de sus datos personales y de la información que entregue a la Universidad con ese carácter;
+XVI      Cursar y concluir sus estudios en condiciones de equidad cuando se trate del alumnado con alguna discapacidad;
+XVII     Recibir un trato objetivo e imparcial por parte de quienes integran la comunidad universitaria, y
+XVIII    Los demás que se señalen en la normatividad de la Universidad.
+58, 78
+ARTÍCULO 5
+Cuando el alumnado pretenda hacer efectivos sus derechos deberá presentar su solicitud, verbal o escrita, ante la persona titular de:
+I     La coordinación de estudios, cuando se trate de cuestiones relacionadas con la docencia;
+II    La dirección de división, en los demás casos relacionados con el trabajo académico, o
+III   Los órganos personales o las instancias que se establezcan en las demás normas de la Universidad.
+58
+ARTÍCULO 6
+Cuando al alumnado se le impida el ejercicio de sus derechos o se le transgreda alguno de ellos, podrá acudir ante la persona titular de la
+dirección de división, de la secretaría de unidad o de la Defensoría de los Derechos Universitarios, para que inicie el procedimiento que
+corresponda, de acuerdo con sus competencias.
+En estos casos se deberán tomar las medidas preventivas o correctivas necesarias para preservar los derechos del alumnado.
+58
+CAPÍTULO III
+Responsabilidades
+58, 78
+ARTÍCULO 7
+Las responsabilidades del alumnado son:
+I      Cumplir con la totalidad de los requisitos previstos en el plan de estudios y con los objetivos establecidos en las unidades de
+       enseñanza-aprendizaje;
+II     Realizar oportunamente las actividades académicas que se determinen en la conducción del proceso de enseñanza-aprendizaje;
+III    Presentar y acreditar las evaluaciones;
+IV     Asistir puntualmente a clases;
+V      Realizar oportunamente los trámites escolares;
+VI     Reconocer y respetar la obra intelectual que utilice o conozca, por lo que en ningún caso presentará como propios trabajos o
+       documentos que sean de la autoría o titularidad de otra persona;
+VII    Observar, en cualquier actividad que realice, los principios rectores y valores institucionales éticos como los de igualdad, seguridad,
+       libertad, equidad, inclusión, diversidad y dignidad, entre otros;
+VIII   Contribuir a que en los espacios universitarios prevalezca una cultura de paz y se mantengan libres de manifestaciones violentas o
+       discriminatorias, que atenten contra la dignidad, seguridad, derechos y libertades de las personas, y
+IX     Las demás que se indiquen en la normatividad de la Universidad.
+58
+CAPÍTULO IV
+Faltas
+58, 78
+ARTÍCULO 8
+Son faltas, del alumnado y de las personas egresadas, en contra de la Institución:
+I       Consumir en la Universidad:
+        a) Bebidas embriagantes, o concurrir a la misma bajo los efectos de éstas;
+        b) Psicotrópicos o estupefacientes, o concurrir a la misma bajo los efectos de éstos, salvo prescripción médica, o
+        c) Tabaco, o utilizar cigarrillos electrónicos, vapeadores o cualquier sistema o dispositivo análogo;
+II      Pintar sin autorización los espacios físicos de la Universidad;
+III     Suplantar o permitir ser suplantado en la realización de actividades académicas;
+IV      Presentar como propios trabajos u obra intelectual que sean de la autoría o titularidad de otra persona, como parte de:
+        a) Las actividades que se requieran en las unidades de enseñanza-aprendizaje, o
+        b) Los proyectos terminales, idóneas comunicaciones de resultados o tesis;
+V       Abrir o interceptar comunicaciones o documentos dirigidos a un órgano o instancia de apoyo de la Universidad;
+VI      Sobornar o extorsionar al personal académico o administrativo, con el propósito de modificar las evaluaciones, los resultados de
+        éstas o de conocer el contenido antes de su aplicación;
+VII     Utilizar las instalaciones de la Universidad para realizar actos de comercio que comprometan la seguridad, la salud o el desarrollo de
+        las actividades académicas, culturales o deportivas;
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+256
+
+
+VIII     Destruir o dañar intencionalmente las instalaciones, equipo, maquinaria, mobiliario y demás bienes que integran el patrimonio de la
+         Universidad;
+IX       Apoderarse sin autorización de bienes o documentos, físicos o electrónicos, de la Universidad;
+X        Disponer de los bienes o documentos transmitidos por la Universidad en tenencia y no en dominio;
+XI       Falsificar documentos de la Universidad;
+XII      Utilizar documentos falsificados o alterados parcial o totalmente;
+XIII     Utilizar sin autorización el nombre, lema, logotipo o monograma de la Universidad, si como consecuencia de ello se compromete el
+         prestigio o se afecta el patrimonio de la Institución;
+XIV      Utilizar cualquier tipo de violencia como medio de solución a los problemas universitarios;
+XV       Registrar o explotar sin autorización los derechos de autor o la propiedad industrial, pertenecientes a la Universidad;
+XVI      Engañar a una persona o aprovecharse del error en que ésta se encuentra para obtener ilícitamente un bien o para alcanzar un
+         beneficio indebido;
+XVII     Sobornar o extorsionar a integrantes de los órganos colegiados o a titulares de los órganos personales o de las instancias de apoyo,
+         para impedir el ejercicio de sus competencias o influir en la toma de decisiones;
+XVIII    Portar, guardar, distribuir o vender armas en la Universidad;
+XIX      Distribuir o vender en la Universidad bebidas embriagantes, tabaco, cigarrillos electrónicos, vapeadores o cualquier sistema o
+         dispositivo análogo;
+XX       Poseer, distribuir o vender en la Universidad psicotrópicos o estupefacientes, y
+XXI      Realizar o promover, por cualquier medio:
+         a) Actos en contra de la igualdad de género o del acceso a una vida libre de violencia, o
+         b) Discursos de odio o actos de discriminación que atenten contra la libertad, integridad o dignidad.
+58, 78
+ARTÍCULO 9
+Son faltas, del alumnado y de las personas egresadas, en contra de integrantes de la comunidad universitaria:
+I       Apoderarse sin consentimiento de sus bienes o documentos físicos o electrónicos;
+II      Destruir o dañar intencionalmente sus bienes o documentos;
+III     Proferir amenazas;
+IV      Ofender, provocar o molestar con palabras o acciones que atenten contra la dignidad;
+V       Realizar, incitar, ejercer o promover, por cualquier medio, discursos de odio, actos de discriminación o violencia física, sexual,
+        psicológica, así como realizar cualquier conducta que atente contra la dignidad, originada por:
+        a) Sexismo;
+        b) Orientación sexual;
+        c) Racismo;
+        d) Xenofobia;
+        e) Clasismo;
+        f)    Capacitismo;
+        g) Embarazo, o
+        h) Cualquier forma de prejuicio, y
+VI      Realizar cualquier tipo de acoso o conductas que atenten contra la dignidad de las personas o su intimidad sexual, indistintamente
+        del medio que se utilice para ello.
+58, 78
+ARTÍCULO 10
+El conocimiento y resolución de las faltas, así como del recurso de reconsideración, estarán a cargo de:
+I      El consejo divisional, en los casos de las faltas previstas en los artículos 8, fracciones I a la XX y 9, fracciones I a la III.
+       Para ello conformará, de entre sus integrantes, la comisión de faltas divisional que las dictaminará.
+II     La comisión especializada de unidad, cuando se trate de las faltas previstas en los artículos 8, fracción XXI y 9, fracciones IV a la VI.
+       Esta comisión se regirá por el principio de buena fe.
+58, 78
+ARTÍCULO 11
+En la sesión en que se instale cada consejo divisional, integrará la comisión de faltas divisional con:
+I       La persona titular de la jefatura de un departamento;
+II      Dos representantes del personal académico, y
+III     Dos representantes del alumnado.
+Para el funcionamiento de esta comisión se observarán las normas aplicables a las comisiones de los órganos colegiados académicos, y
+podrá asesorarse de hasta tres especialistas, según la falta que se presente en cada caso.
+El dictamen de la comisión de faltas divisional, así como las resoluciones que se emitan y las actas de las sesiones de los consejos
+divisionales deberán elaborarse en versión pública.
+78
+ARTÍCULO 12
+Las comisiones especializadas de unidad serán las responsables de conocer y resolver las conductas violentas, discursos de odio, actos de
+discriminación u otros relacionados con violencia por razones de género.
+Estas comisiones se conformarán con las personas siguientes:
+I       Tres integrantes del personal académico especialistas en los temas que atenderán las comisiones;
+II      Una designada por la titular de la Rectoría de Unidad, con experiencia en la atención de violencia por razones de género, y
+III     Una representante de la Abogacía General.
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+                                                                                                                                           257
+
+
+Estas comisiones serán coordinadas por la titular de la secretaría de unidad, podrán asesorarse de las personas especialistas que considere
+necesarias, según la falta que se presente en cada caso, y en ellas participarán, como observadoras de los procedimientos, la Defensoría de
+los Derechos Universitarios y una persona del alumnado de la división en la que se encuentre inscrita la señalada como responsable de la
+falta.
+En la integración de estas comisiones se procurará un equilibrio de género.
+78
+ARTÍCULO 13
+Las tres personas integrantes del personal académico y las observadoras del alumnado, serán designadas por el consejo académico, una
+por cada división académica, a propuesta de cada titular de éstas, para lo cual se considerará lo siguiente:
+I       La designación se realizará en la sesión en la que se instale el consejo académico.
+II      Por cada titular habrá una suplente y podrán formar parte de los órganos colegiados o ser ajenas a éstos.
+III     Deberán gozar de solvencia moral y ética.
+IV      Entregarán un documento en donde manifiesten por escrito y bajo protesta de decir verdad, que:
+        a) No han sido sancionadas mediante resolución firme, por actos u omisiones relacionadas con violencia por razones de género u
+              otras violaciones a derechos humanos, o
+        b) En caso de que hayan sido sancionadas por estos actos u omisiones, acreditar que cumplieron con la reparación del daño o la
+              reparación integral a las víctimas.
+V       Para las integrantes del personal académico, además estar contratadas por tiempo completo e indeterminado, con al menos tres
+        años de antigüedad en la Universidad.
+VI      Para el alumnado que participe como observador, además:
+        a) Haber cursado por lo menos dos trimestres si son de licenciatura o un trimestre si son de posgrado, y
+        b) Estar inscritas al año escolar.
+VII     Perderán la calidad de integrantes u observadoras cuando dejen de asistir, durante un año, a tres reuniones consecutivas o a cinco
+        no consecutivas.
+78
+ARTÍCULO 14
+Las personas titulares de las rectorías de unidad y de la Abogacía General, informarán por escrito a la titular de la secretaría de unidad, los
+nombres y cargos de quienes conformarán las comisiones especializadas de unidad.
+58, 78
+ARTÍCULO 15
+El funcionamiento de las comisiones especializadas de unidad se sujetará a lo siguiente:
+I       Las reuniones serán privadas y se convocarán por la secretaría de unidad, con el orden del día, al cual anexará los documentos o el
+        acceso a los archivos electrónicos.
+II      Las personas integrantes de la comisión, las observadoras y las asesoras, serán convocadas por lo menos con tres días hábiles de
+        anticipación a la fecha de la reunión, salvo cuando se trate de asuntos urgentes.
+III     La comisión podrá reunirse con más de la mitad de las personas que la integran, cuya asistencia podrá ser presencial, remota o
+        mixta, según lo acuerde previamente.
+IV      Las decisiones se adoptarán por el voto de la mayoría de las personas integrantes que se encuentren presentes al tomar los
+        acuerdos.
+        La secretaría de unidad, las personas observadoras y las asesoras tendrán derecho a voz, pero no a voto.
+V       La secretaría de unidad será la responsable de:
+        a) Registrar la asistencia;
+        b) Certificar el quórum;
+        c) Conducir las reuniones de manera que las participaciones se desarrollen con pleno respeto a la dignidad, en orden, con
+              precisión y fluidez;
+        d) Computar los votos;
+        e) Elaborar y firmar las minutas de cada reunión;
+        f)    Firmar las resoluciones y elaborarlas en versión pública.
+              En las resoluciones, además se señalará el sentido de los votos de cada integrante, así como las opiniones de las personas
+              observadoras, y
+        g) Presentar en el mes de diciembre de cada año, ante el consejo académico respectivo, un informe por escrito, con los datos
+              estadísticos sobre las quejas presentadas y los dictámenes emitidos.
+58
+CAPÍTULO V
+Medidas administrativas
+58, 78
+ARTÍCULO 16
+Las medidas administrativas que se aplicarán al alumnado y a las personas egresadas que cometan alguna falta, serán las siguientes:
+I       Amonestación escrita;
+II      Suspensión, de uno a seis trimestres, de los derechos escolares y universitarios para el caso del alumnado, o de los trámites
+        escolares para las personas egresadas, o
+III     Expulsión de la Universidad.
+Al aplicar las medidas administrativas previstas en las fracciones I y II, el consejo divisional o la comisión especializada de unidad, en las
+resoluciones correspondientes, podrán requerir la realización de cursos o actividades para comprender la consecuencia de la falta, así como
+para corregir actitudes y comportamientos contrarios a los valores universitarios.
+
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+258
+
+
+En estos casos, para poder reinscribirse o continuar con sus trámites escolares, el alumnado o las personas egresadas deberán presentar,
+ante la secretaría de unidad, las constancias que acrediten la realización de los cursos o actividades requeridas.
+Estas medidas se determinarán con independencia y sin perjuicio de la responsabilidad que, en su caso, resulte de la aplicación de la
+legislación nacional.
+58, 78
+ARTÍCULO 17
+Cuando se trate de las faltas previstas en los artículos 8, fracciones I a la IV, inciso a), y V a la VII, y 9, fracciones I, II y IV, se impondrá
+desde amonestación escrita hasta suspensión por tres trimestres.
+58, 78
+ARTÍCULO 18
+Cuando se trate de las faltas previstas en los artículos 8, fracciones IV, inciso b), y VIII a la XXI, y 9, fracciones III, V y VI, se impondrá desde
+suspensión de cuatro a seis trimestres hasta expulsión de la Universidad.
+78
+CAPÍTULO VI
+Procedimiento para resolver las faltas
+58, 78
+ARTÍCULO 19
+Las personas de la comunidad universitaria, debidamente identificadas, podrán dar a conocer la existencia de una posible falta. Para ello
+deberán presentar un escrito, preferentemente en sobre cerrado, ante la secretaría del consejo divisional, quien dentro de los tres días
+hábiles siguientes lo remitirá al consejo divisional o a la secretaría de unidad, según sea el caso.
+Si la persona que pretenda presentar el escrito requiere apoyo o asesoría, se le proporcionará de inmediato.
+58, 78
+ARTÍCULO 20
+Las comisiones de faltas, divisional o especializadas de unidad, al considerar el contexto, los antecedentes del caso y el testimonio de la
+persona que haya presentado el escrito, podrán solicitar a la secretaría de unidad que establezca las medidas temporales y de urgente
+aplicación, encaminadas a salvaguardar la integridad de la persona en situación de víctima. Estas medidas tendrán carácter confidencial.
+Si de los hechos se advierte la comisión de un probable delito, la secretaría de unidad, con la asesoría de la Abogacía General, tomarán de
+inmediato las medidas necesarias para presentar la denuncia correspondiente.
+58, 78
+ARTÍCULO 21
+Las partes involucradas en un procedimiento de faltas tendrán los derechos siguientes:
+I      Las personas en situación de víctima:
+       a) A recibir información, orientación, acompañamiento jurídico y psicológico; así como sobre las medidas de protección que, en
+              casos de violencia, les proporcionen las secretarías de unidad;
+       b) A ser tratadas con dignidad y a no ser revictimizadas;
+       c) Al debido proceso, por lo que podrán presentar testigos, ofrecer pruebas y asesorarse de las personas o especialistas que
+              consideren;
+       d) A solicitar y recibir información clara, precisa y accesible respecto del desarrollo del procedimiento, y
+       e) Al resguardo de su identidad y otros datos personales.
+II     Las personas señaladas como responsables de una falta:
+       a) A recibir información, orientación, acompañamiento jurídico y psicológico;
+       b) A la presunción de inocencia;
+       c) A ser tratadas con dignidad;
+       d) Al debido proceso, por lo que podrán presentar testigos, ofrecer pruebas y asesorarse de las personas o especialistas que
+              consideren;
+       e) A solicitar y recibir información clara, precisa y accesible respecto del desarrollo del procedimiento, y
+       f)     Al resguardo de su identidad y otros datos personales.
+58, 78
+ARTÍCULO 22
+Las personas integrantes, las asesoras, y las que participen en las reuniones de la comisión de faltas divisional, en las sesiones de los
+consejos divisionales o en las comisiones especializadas de unidad, deberán abstenerse de divulgar la información que conozcan, y tomarán
+las demás medidas que sean necesarias para proteger la información personal de las partes involucradas.
+58, 78
+ARTÍCULO 23
+Las comisiones de faltas, divisional o especializadas de unidad, dentro de los diez días hábiles siguientes a la recepción del escrito con el
+que se dé a conocer la existencia de una posible falta, notificarán los antecedentes del caso, en forma personal, a las partes involucradas, a
+quienes se les indicará que cuentan con todas las posibilidades de defensa, tal como la asesoría por parte de especialistas.
+Las demás notificaciones podrán realizarse a través de la dirección de correo electrónico institucional, cuando así lo hayan aceptado
+expresamente las partes involucradas.
+Una vez notificados los antecedentes, las partes tendrán un plazo de diez días hábiles para presentar pruebas y alegatos. En caso de que
+requiera de la presentación de pruebas especializadas o surjan pruebas supervenientes, las comisiones de faltas, divisional o especializadas
+de unidad, determinarán el plazo máximo para su presentación.
+Las comisiones de faltas entregarán, a cada una de las partes involucradas, las pruebas y alegatos presentados para que, dentro de los
+cinco días hábiles siguientes, manifiesten lo que a su interés convenga.
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+                                                                                                                                              259
+
+
+58, 78
+ARTÍCULO 24
+Las comisiones de faltas, divisional o especializadas de unidad, dentro de los quince días hábiles posteriores al plazo señalado para
+presentar pruebas y alegatos, emitirán el dictamen o la resolución fundada y motivada, que deberán reflejar como principio fundamental, el
+respeto y protección de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados y
+convenios internacionales de los que el Estado Mexicano sea parte, la legislación nacional y universitaria, y las políticas institucionales.
+En el dictamen que emita la comisión de faltas divisional se propondrá la resolución y lo enviará a la persona titular de la presidencia del
+consejo divisional, a más tardar al día hábil siguiente, para que lo incluya en el orden del día de su próxima sesión.
+El consejo divisional, en la misma sesión, analizará el dictamen y emitirá la resolución.
+58, 78
+ARTÍCULO 25
+La comisión de faltas divisional para emitir el dictamen, o el consejo divisional o la comisión especializada de unidad para resolver y aplicar la
+medida administrativa, deberán considerar lo siguiente:
+I       La conducta observada por la persona señalada como responsable de la falta;
+II      El desempeño académico de la persona señalada como responsable de la falta;
+III     Los motivos que impulsaron a la persona señalada como responsable a cometer la falta;
+IV      Las circunstancias externas de ejecución de la falta;
+V       La perspectiva de género, y
+VI      Las consecuencias producidas por la falta.
+Cuando se trate de las faltas relacionadas con las conductas violentas, discursos de odio, actos de discriminación u otros relacionados con
+violencia por razones de género, la comisión especializada de unidad no considerará el criterio indicado en la fracción II, y el criterio de la
+fracción I se considerará como agravante si la persona señalada como responsable cometió anteriormente alguna falta.
+78
+ARTÍCULO 26
+Las resoluciones del consejo divisional y de las comisiones especializadas de unidad, deberán contener:
+I      La descripción de los hechos que motivaron la presentación del escrito mediante el cual se dio a conocer la existencia de una posible
+       falta;
+II     La valoración de pruebas y alegatos;
+III    La aplicación de los criterios indicados en el artículo 25, y
+IV     Las disposiciones legales en que sustenta la resolución.
+58, 78
+ARTÍCULO 27
+Las resoluciones emitidas por el consejo divisional y por la comisión especializada de unidad deberán notificarse por escrito y dentro de los
+cinco días hábiles posteriores a la fecha de su emisión, a las partes involucradas, a la Secretaría General y a la secretaría de unidad.
+58, 78
+ARTÍCULO 28
+Las medidas administrativas consistentes en la suspensión de derechos escolares y universitarios del alumnado o de los derechos escolares
+de las personas egresadas, entrarán en vigor en el trimestre en que se emitan o en el trimestre inmediato siguiente, según lo determine el
+consejo divisional o la comisión especializada de unidad, para lo cual considerarán la naturaleza o consecuencias de la falta, la situación
+académica del alumnado o egresada responsable y la semana del trimestre en que se emita la medida.
+58, 78
+CAPÍTULO VII
+Recurso de reconsideración
+58, 78
+ARTÍCULO 29
+Las personas en situación de víctimas o las responsables de una falta, en caso de que estén en desacuerdo con la resolución, podrán
+interponer el recurso de reconsideración.
+58, 78
+ARTÍCULO 30
+El recurso de reconsideración deberá interponerse por escrito, ante la secretaría del consejo divisional o la secretaría de unidad, según sea
+el caso, dentro de los diez días hábiles siguientes a la fecha de notificación de la resolución.
+58, 78
+ARTÍCULO 31
+En el escrito con el que se interponga el recurso de reconsideración se deberán expresar los argumentos en contra de la resolución del
+consejo divisional o de la comisión especializada de unidad.
+Las partes podrán presentar pruebas supervinientes, las que deberán ser consideradas por el consejo divisional o la comisión especializada
+de unidad.
+58, 78
+ARTÍCULO 32
+Una vez que la secretaría académica o la secretaría de unidad reciban el recurso de reconsideración, convocarán de inmediato a la comisión
+de faltas divisional para que lo dictamine, o a la especializada de unidad, para que lo resuelvan, según corresponda, dentro de los diez días
+hábiles siguientes.
+La comisión de faltas divisional emitirá el dictamen fundado y motivado en el que propondrá la resolución y, a más tardar al día hábil
+siguiente, lo enviará a la persona titular de la presidencia del consejo divisional para que lo incluya en el orden del día de su próxima sesión.
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+260
+
+
+La resolución que emita el consejo divisional y la comisión especializada de unidad será definitiva y deberá estar debidamente fundada y
+motivada.
+58, 78
+CAPÍTULO VIII
+Distinciones
+58, 78
+ARTÍCULO 33
+La Universidad podrá otorgar al alumnado que se destaque por su participación en el desarrollo de las actividades académicas las
+distinciones siguientes:
+I        Mención Académica;
+II       Medalla al Mérito Universitario;
+III      Diploma al Mérito Universitario;
+IV       Medalla al Mérito Universitario Intercultural, y
+V        Diploma a la Investigación.
+Al alumnado que se le haya aplicado alguna medida administrativa no podrá ser acreedor a estas distinciones.
+58, 78
+ARTÍCULO 34
+La Mención Académica se otorgará anualmente a una persona del alumnado de cada especialización, maestría o doctorado que haya
+realizado una comunicación de resultados o una tesis que sobresalga por contribuir al desarrollo del conocimiento científico, tecnológico,
+técnico, humanístico o artístico, o a la atención de necesidades de la sociedad.
+58, 78
+ARTÍCULO 35
+Para los efectos del artículo anterior, una comisión académica examinará las tesis y comunicaciones de resultados correspondientes al año
+en el que se pretenda otorgar la distinción.
+58, 78
+ARTÍCULO 36
+Los consejos divisionales integrarán anualmente las comisiones académicas con al menos tres integrantes del profesorado, con categoría de
+titular.
+13, 58, 78
+ARTÍCULO 37
+Al alumnado de cada licenciatura, especialización, maestría o doctorado que, al finalizar sus estudios, obtenga el mejor promedio, que no
+podrá ser menor de B, del grupo que termina, se le otorgará al primer lugar la Medalla al Mérito Universitario y, al segundo y tercer lugar el
+Diploma al Mérito Universitario.
+Para hacerse acreedor a estas distinciones se considerará, además, lo siguiente:
+I        El alumnado inscrito en la modalidad de tiempo completo deberá concluir los estudios en un plazo que no excederá del normal
+         previsto en el plan de estudios y hasta tres trimestres después.
+II       El alumnado inscrito en la modalidad de medio tiempo deberá concluir los estudios en un plazo que no excederá del plazo máximo
+         previsto en el plan de estudios.
+En ambos casos se contabilizarán los trimestres en los que el alumnado haya inscrito unidades de enseñanza-aprendizaje y para determinar
+la modalidad de tiempo completo o medio tiempo se tomará en cuenta el número de unidades enseñanza-aprendizaje inscritas en la mayoría
+de los trimestres cursados.
+58, 78
+ARTÍCULO 38
+Al alumnado de cada licenciatura, especialización, maestría o doctorado, cuya lengua materna sea una de las originarias reconocidas
+oficialmente como nacional y que, al finalizar sus estudios, obtenga el mejor promedio, que no podrá ser menor de B, de entre quienes se
+encuentren en esta situación se le otorgará la Medalla al Mérito Universitario Intercultural.
+Para hacerse acreedor a esta distinción se considerará, además, lo siguiente:
+I        El alumnado inscrito en la modalidad de tiempo completo deberá concluir los estudios en un plazo que no excederá del normal
+         previsto en el plan de estudios y hasta tres trimestres después.
+II       El alumnado inscrito en la modalidad de medio tiempo deberá concluir los estudios en un plazo que no excederá del plazo máximo
+         previsto en el plan de estudios.
+En ambos casos se contabilizarán los trimestres en los que el alumnado haya inscrito unidades de enseñanza-aprendizaje y para determinar
+la modalidad de tiempo completo o medio tiempo se tomará en cuenta el número de unidades enseñanza-aprendizaje inscritas en la mayoría
+de los trimestres cursados.
+10, 58, 78
+ARTÍCULO 39
+El Diploma a la Investigación se otorgará cada año a una persona o grupo del alumnado de cada licenciatura que haya ganado el concurso
+convocado para tal efecto por la persona titular de la rectoría de Unidad.
+58, 78
+ARTÍCULO 40
+La convocatoria que emita la persona titular de la rectoría de unidad, debe contener:
+I      Las modalidades particulares para otorgar la distinción por cada una de las divisiones que integren la unidad;
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+                                                                                                                                           261
+
+
+II       La fecha límite para la recepción de las propuestas;
+III      La condición de que podrán participar únicamente los trabajos de investigación de licenciatura concluidos en el periodo de enero a
+         diciembre del año anterior, y
+IV       La condición de que una persona o un grupo del alumnado sólo podrán participar con un trabajo.
+10, 58, 78
+ARTÍCULO 41
+Los consejos académicos integrarán los jurados calificadores, con cinco personas del sector académico de las divisiones respectivas,
+quienes decidirán cuáles son las investigaciones que ameritan la distinción. Los jurados podrán asesorarse de especialistas en la materia.
+58, 78
+ARTÍCULO 42
+Las distinciones serán otorgadas por la persona titular de la rectoría de la unidad correspondiente, en sesión del consejo académico
+convocada para tal efecto.
+58, 78
+ARTÍCULO 43
+Cuando a juicio de las comisiones académicas o de los jurados calificadores no existan los méritos suficientes para otorgar una distinción, así
+lo declararán.
+58, 78
+ARTÍCULO 44
+Una misma persona del alumnado podrá recibir más de una de estas distinciones.
+58, 78
+ARTÍCULO 45
+Las decisiones sobre el otorgamiento de las distinciones serán inapelables.
+                                                              TRANSITORIOS
+PRIMERO
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Órgano Informativo de la Universidad.
+SEGUNDO
+Se derogan todas las demás disposiciones que se opongan al presente Reglamento.
+TERCERO
+Las primeras comisiones de los Consejos Divisionales se instalarán en la sesión inmediata a la entrada en vigor de este Reglamento y
+desempeñarán sus funciones hasta la próxima instalación de los nuevos Consejos Divisionales.
+CUARTO
+Los casos de faltas cometidas por los alumnos que se encuentren pendientes de solución a la fecha de entrada en vigor de este Reglamento,
+se instrumentarán de acuerdo con las prácticas que se han venido observando en la Universidad.
+QUINTO
+Las distinciones establecidas en el presente Reglamento se instrumentarán a partir del mes de abril de 1985.
+Publicado el 25 de marzo de 1985 en el Vol. IX (Número Extraordinario) del Órgano Informativo de la Universidad Autónoma Metropolitana.
+DE LAS MODIFICACIONES Y ADICIONES RELACIONADAS CON EL DIPLOMA A LA INVESTIGACIÓN
+PRIMERO
+Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Órgano Informativo de la Universidad
+Autónoma Metropolitana.
+SEGUNDO
+Se derogan todas las disposiciones que se opongan a las presentes modificaciones y adiciones.
+Publicadas el 9 de diciembre de 1991 en el Vol. XVI del Órgano Informativo de la Universidad Autónoma Metropolitana.
+
+DE LA MODIFICACIÓN AL ARTÍCULO 35 RELACIONADA CON LA MEDALLA AL MÉRITO UNIVERSITARIO
+ÚNICO
+Esta modificación entrará en vigor a partir del día siguiente de su publicación en el Órgano Informativo de la Universidad Autónoma
+Metropolitana.
+Publicada el 18 de enero de 1993 en el Vol. XVII del Órgano Informativo de la Universidad Autónoma Metropolitana.
+REFORMA RELACIONADA CON LA INICIATIVA DEL CONSEJO ACADÉMICO DE LA UNIDAD LERMA PARA REFORMAR LOS
+ARTICULOS 10 Y 11 DEL REGLAMENTO DE ALUMNOS
+PRIMERO
+La presente reforma entrará en vigor el día hábil siguiente al de su publicación en el Semanario de la UAM.
+SEGUNDO
+Los procedimientos iniciados antes de la entrada en vigor de estas reformas, se regirán hasta su conclusión por las disposiciones vigentes a
+la fecha en que se hayan presentado.
+Publicada el 4 de enero de 2021 en el Semanario de la UAM.
+
+
+
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+262
+
+
+78
+REFORMA RELACIONADA CON LA PREVENCIÓN, ATENCIÓN Y SANCIÓN DE CONDUCTAS RELACIONADAS CON VIOLENCIA POR
+RAZONES DE GÉNERO
+PRIMERO
+La presente reforma entrará en vigor el día hábil siguiente al de su publicación en el Semanario de la UAM.
+SEGUNDO
+El personal académico y el alumnado que conformarán las comisiones especializadas de unidad, serán designadas por los consejos
+académicos, en las sesiones de instalación de la representación 2025-2027.
+TERCERO
+Los procedimientos de faltas iniciados antes de la entrada en vigor de esta reforma se regirán, hasta su conclusión, por las disposiciones
+vigentes en la fecha en que se hayan iniciado.
+CUARTO
+Los procedimientos de faltas iniciados con posterioridad a la entrada en vigor de esta reforma, pero antes de la conformación de las
+comisiones especializadas de unidad, serán atendidos y resueltos por las comisiones de faltas y los consejos divisionales, por lo que en
+estos casos no les serán aplicables los artículos 10, 12, 13, 14, 15, 17 y 18 de este Reglamento.
+Publicada el 24 de marzo de 2025 en el Semanario de la UAM.
+
+
+
+
+___________________________________________________________________________________________________________________________________________
+                                                        LEGISLACIÓN UNIVERSITARIA
+
